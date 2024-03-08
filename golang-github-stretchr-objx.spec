@@ -1,4 +1,4 @@
-%bcond_with bootstrap2
+%bcond_without bootstrap2
 
 # Run tests in check section
 %bcond_without check
