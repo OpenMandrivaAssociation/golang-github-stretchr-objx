@@ -6,7 +6,7 @@
 # https://github.com/stretchr/objx
 %global goipath		github.com/stretchr/objx
 %global forgeurl	https://github.com/stretchr/objx
-Version:		0.5.1
+Version:		0.5.2
 
 %gometa
 
